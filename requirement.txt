@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+twilio
+google-generativeai
+gspread
+oauth2client
+python-multipart
+pyngrok
+nest_asyncio
+
+
+
+Run Project
+
+Install:
+        pip install -r requirements.txt
+
+Start:
+      uvicorn app:app --reload
+
+Expose with ngrok:
+                  ngrok http 8000
+
+Webhook:
+        https://your-ngrok-url/whatsapp
