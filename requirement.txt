@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+twilio
+google-generativeai
+gspread
+oauth2client
+python-multipart
+pyngrok
+nest_asyncio
